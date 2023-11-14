@@ -1,0 +1,76 @@
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-uploader {
+    padding: 50px 10%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.producto {
+    width: 200px;
+    height: 300px;
+    gap: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    font-family: 'Nunito', sans-serif;
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 20px 20px 60px #cecece, -20px -20px 60px #f2f2f2;
+    transition: all 0.3s ease-in;
+}
+
+.producto a {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.producto a p {
+    border-top: 1px solid black;
+    width: 100%;
+}
+
+.producto:hover {
+    margin-top: -10px;
+    transition: all 0.3s ease-in;
+    cursor: pointer;
+}
+
+h3 {
+    color: brown;
+}
+
+button {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto;
+    background-color: red;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.conteiner-img {
+    width: 100%;
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 500px) {
+    .product-uploader {
+        justify-content: center;
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "grupo_1_musical",
+  "version": "1.0.0",
+  "description": "# Temática del Market Place",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js --ignore src/data/*.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaquinFiorio/Grupo_1_Musical.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaquinFiorio/Grupo_1_Musical/issues"
+  },
+  "homepage": "https://github.com/JoaquinFiorio/Grupo_1_Musical#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "method-override": "^3.0.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
