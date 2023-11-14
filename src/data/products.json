@@ -1,40 +1,324 @@
 [
   {
+    "id": 1,
+    "nombre": "Elefante Copa Cuadrada",
+    "precio_unitario": 4388.43,
+    "cantidad_disponible": 7434,
+    "impuesto": 0.21
+  },
+  {
+    "id": 2,
+    "nombre": "Angel AMOR",
+    "precio_unitario": 6198.35,
+    "cantidad_disponible": 9000,
+    "impuesto": 0.21
+  },
+  {
     "id": 3,
-    "name": "Probanding",
-    "description": "Guitarra de cuerda test",
-    "category": "Guitarras test",
-    "Subcategory": "Cuerda",
-    "price": "2000",
-    "image": "1699315589086-product.jpg",
-    "subCategory": "Cuerda test"
+    "nombre": "Angel FELICIDAD",
+    "precio_unitario": 6198.35,
+    "cantidad_disponible": 9000,
+    "impuesto": 0.21
   },
   {
     "id": 4,
-    "name": "la barrosa",
-    "description": "Guitarra de cuerda",
-    "category": "Guitarras",
-    "Subcategory": "Cuerda",
-    "price": "200",
-    "image": "product-1699315632783.jpg"
+    "nombre": "Elefante Copa Redonda",
+    "precio_unitario": 5785.12,
+    "cantidad_disponible": 9000,
+    "impuesto": 0.21
   },
   {
     "id": 5,
-    "name": "bajo",
-    "description": "aa",
-    "category": "aa",
-    "Subcategory": "aa",
-    "price": "15000",
-    "image": "product-1699378904567.png"
+    "nombre": "Hornillo Electrico Ceramica Grande",
+    "precio_unitario": 4090.91,
+    "cantidad_disponible": 9900,
+    "impuesto": 0.21
   },
   {
     "id": 6,
-    "name": "Musi Tienda",
-    "description": "Lorem ip",
-    "category": "aa",
-    "Subcategory": "aa",
-    "price": "321321321",
-    "image": "product-1699380777904.jpg",
-    "subCategory": ""
+    "nombre": "MONJE ACOSTADO y Cuenco",
+    "precio_unitario": 4876.03,
+    "cantidad_disponible": 8000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 7,
+    "nombre": "Monje Meditando",
+    "precio_unitario": 5371.9,
+    "cantidad_disponible": 9000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 8,
+    "nombre": "Lampara Vitrofusion Mediana",
+    "precio_unitario": 4090.91,
+    "cantidad_disponible": 6930,
+    "impuesto": 0.21
+  },
+  {
+    "id": 9,
+    "nombre": "Budas Deco 20 cm",
+    "precio_unitario": 2314.05,
+    "cantidad_disponible": 5600,
+    "impuesto": 0.21
+  },
+  {
+    "id": 10,
+    "nombre": "Buda 20cm FELICIDAD",
+    "precio_unitario": 2314.05,
+    "cantidad_disponible": 5600,
+    "impuesto": 0.21
+  },
+  {
+    "id": 11,
+    "nombre": "Buda 20cm ARMONIA",
+    "precio_unitario": 2314.05,
+    "cantidad_disponible": 5600,
+    "impuesto": 0.21
+  },
+  {
+    "id": 12,
+    "nombre": "Budita BB 13 cm. Laqueados",
+    "precio_unitario": 1157.02,
+    "cantidad_disponible": 3000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 13,
+    "nombre": "Budita BB ARMONIA",
+    "precio_unitario": 1694,
+    "cantidad_disponible": 3388,
+    "impuesto": 0.21
+  },
+  {
+    "id": 14,
+    "nombre": "Budita BB FELICIDAD",
+    "precio_unitario": 1157.02,
+    "cantidad_disponible": 2800,
+    "impuesto": 0.21
+  },
+  {
+    "id": 15,
+    "nombre": "Duendes Articulados",
+    "precio_unitario": 1487.6,
+    "cantidad_disponible": 2000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 16,
+    "nombre": "Bombitas Defumacion",
+    "precio_unitario": 330.58,
+    "cantidad_disponible": 800,
+    "impuesto": 0.21
+  },
+  {
+    "id": 17,
+    "nombre": "Palo Santo Peruano",
+    "precio_unitario": 330.58,
+    "cantidad_disponible": 800,
+    "impuesto": 0.21
+  },
+  {
+    "id": 18,
+    "nombre": "Sahumerios en Cono",
+    "precio_unitario": 247.93,
+    "cantidad_disponible": 700,
+    "impuesto": 0.21
+  },
+  {
+    "id": 19,
+    "nombre": "Sahumos de Hierbas Naturales",
+    "precio_unitario": 619.83,
+    "cantidad_disponible": 1200,
+    "impuesto": 0.21
+  },
+  {
+    "id": 20,
+    "nombre": "Hornillo CORAZON",
+    "precio_unitario": 1322.31,
+    "cantidad_disponible": 4500,
+    "impuesto": 0.21
+  },
+  {
+    "id": 21,
+    "nombre": "Sahumerios Triple Empaste Artesanales MULTIAROMA",
+    "precio_unitario": 247.93,
+    "cantidad_disponible": 700,
+    "impuesto": 0.21
+  },
+  {
+    "id": 22,
+    "nombre": "Sahumerios Triple Empaste Artesanales CARBON",
+    "precio_unitario": 413.22,
+    "cantidad_disponible": 1000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 23,
+    "nombre": "Sahumerios/Conos para cascadas",
+    "precio_unitario": 314.05,
+    "cantidad_disponible": 700,
+    "impuesto": 0.21
+  },
+  {
+    "id": 24,
+    "nombre": "Esencias AMBAR",
+    "precio_unitario": 429.75,
+    "cantidad_disponible": 1000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 25,
+    "nombre": "Vela de Noche c/contenedores para hornillo",
+    "precio_unitario": 41.32,
+    "cantidad_disponible": 100,
+    "impuesto": 0.21
+  },
+  {
+    "id": 26,
+    "nombre": "Porta Sahumerios Bambu Ceramica",
+    "precio_unitario": 1074.38,
+    "cantidad_disponible": 2600,
+    "impuesto": 0.21
+  },
+  {
+    "id": 27,
+    "nombre": "Pirámides sahumadoras + Conos de Regalo",
+    "precio_unitario": 2066.12,
+    "cantidad_disponible": 5000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 28,
+    "nombre": "Porta sahumerios redondos",
+    "precio_unitario": 123.97,
+    "cantidad_disponible": 300,
+    "impuesto": 0.21
+  },
+  {
+    "id": 29,
+    "nombre": "Porta Sahumerios BUDA Komorebi",
+    "precio_unitario": 619.83,
+    "cantidad_disponible": 1400,
+    "impuesto": 0.21
+  },
+  {
+    "id": 30,
+    "nombre": "Porta Sahumerios Sky madera",
+    "precio_unitario": 570.25,
+    "cantidad_disponible": 1400,
+    "impuesto": 0.21
+  },
+  {
+    "id": 31,
+    "nombre": "Quemador Palo Santo Komorebi",
+    "precio_unitario": 1239.67,
+    "cantidad_disponible": 3000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 32,
+    "nombre": "Quemador para bombitas Artesanal BUHO",
+    "precio_unitario": 1487.6,
+    "cantidad_disponible": 3000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 33,
+    "nombre": "Quemador/Sahumador/Cuenco Pintado FLOR",
+    "precio_unitario": 991.74,
+    "cantidad_disponible": 2400,
+    "impuesto": 0.21
+  },
+  {
+    "id": 34,
+    "nombre": "Cascada de Humo LUNA c/Buda Komorebi",
+    "precio_unitario": 2314.05,
+    "cantidad_disponible": 5000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 35,
+    "nombre": "Conos para cascadas RELAXING Coco",
+    "precio_unitario": 371.9,
+    "cantidad_disponible": 1000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 36,
+    "nombre": "Conos para Cascadas 7 PODERES",
+    "precio_unitario": 371.9,
+    "cantidad_disponible": 1000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 37,
+    "nombre": "Veladores Cuadrados madera con foco",
+    "precio_unitario": 2892.56,
+    "cantidad_disponible": 6000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 38,
+    "nombre": "Velas x 7 Arcángeles",
+    "precio_unitario": 1239.67,
+    "cantidad_disponible": 2500,
+    "impuesto": 0.21
+  },
+  {
+    "id": 39,
+    "nombre": "Porta Sahumerios con relieve mandalas",
+    "precio_unitario": 570.25,
+    "cantidad_disponible": 1300,
+    "impuesto": 0.21
+  },
+  {
+    "id": 40,
+    "nombre": "Porta Sahumerios Artesenal verde y amarillo",
+    "precio_unitario": 413.22,
+    "cantidad_disponible": 1000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 41,
+    "nombre": "Sahumerios Triple Empaste Artesanales PREMIUM multifragancia",
+    "precio_unitario": 165.29,
+    "cantidad_disponible": 800,
+    "impuesto": 0.21
+  },
+  {
+    "id": 42,
+    "nombre": "Sahumerios premium un AROMA",
+    "precio_unitario": 165.29,
+    "cantidad_disponible": 700,
+    "impuesto": 0.21
+  },
+  {
+    "id": 43,
+    "nombre": "Sahumerios/Conos para cascadas Iluminarte",
+    "precio_unitario": 330.58,
+    "cantidad_disponible": 800,
+    "impuesto": 0.21
+  },
+  {
+    "id": 44,
+    "nombre": "Hornillo 2 PIEZAS chiquito",
+    "precio_unitario": 1652.89,
+    "cantidad_disponible": 4000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 45,
+    "nombre": "Hornillo cerámica pintados",
+    "precio_unitario": 1652.89,
+    "cantidad_disponible": 4000,
+    "impuesto": 0.21
+  },
+  {
+    "id": 46,
+    "nombre": "Cascada de Humo Piedras",
+    "precio_unitario": 2479.34,
+    "cantidad_disponible": 6000,
+    "impuesto": 0.21
   }
 ]
