@@ -359,6 +359,7 @@ header .headerImg img {
 }
 
 .pie-pagina .grupo-1 .box img {
+    margin-top: 20px;
     width: 200px;
 }
 
@@ -381,14 +382,7 @@ header .headerImg img {
 
 }
 
-.pie-pagina .grupo-1 .box-pagos .metodos-pagos {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.pie-pagina .grupo-1 .red-social a,
-.metodos-pagos i {
+.pie-pagina .grupo-1 .red-social a {
     display: inline-block;
     text-decoration: none;
     width: 45px;

@@ -1,324 +1,232 @@
 [
   {
     "id": 1,
-    "nombre": "Elefante Copa Cuadrada",
-    "precio_unitario": 4388.43,
-    "cantidad_disponible": 7434,
-    "impuesto": 0.21
+    "name": "Elefante Copa Cuadrada",
+    "price": 4388.43
   },
   {
     "id": 2,
-    "nombre": "Angel AMOR",
-    "precio_unitario": 6198.35,
-    "cantidad_disponible": 9000,
-    "impuesto": 0.21
+    "name": "Angel AMOR",
+    "price": 6198.35
   },
   {
     "id": 3,
-    "nombre": "Angel FELICIDAD",
-    "precio_unitario": 6198.35,
-    "cantidad_disponible": 9000,
-    "impuesto": 0.21
+    "name": "Angel FELICIDAD",
+    "price": 6198.35
   },
   {
     "id": 4,
-    "nombre": "Elefante Copa Redonda",
-    "precio_unitario": 5785.12,
-    "cantidad_disponible": 9000,
-    "impuesto": 0.21
+    "name": "Elefante Copa Redonda",
+    "price": 5785.12
   },
   {
     "id": 5,
-    "nombre": "Hornillo Electrico Ceramica Grande",
-    "precio_unitario": 4090.91,
-    "cantidad_disponible": 9900,
-    "impuesto": 0.21
+    "name": "Hornillo Electrico Ceramica Grande",
+    "price": 4090.91
   },
   {
     "id": 6,
-    "nombre": "MONJE ACOSTADO y Cuenco",
-    "precio_unitario": 4876.03,
-    "cantidad_disponible": 8000,
-    "impuesto": 0.21
+    "name": "MONJE ACOSTADO y Cuenco",
+    "price": 4876.03
   },
   {
     "id": 7,
-    "nombre": "Monje Meditando",
-    "precio_unitario": 5371.9,
-    "cantidad_disponible": 9000,
-    "impuesto": 0.21
+    "name": "Monje Meditando",
+    "price": 5371.9
   },
   {
     "id": 8,
-    "nombre": "Lampara Vitrofusion Mediana",
-    "precio_unitario": 4090.91,
-    "cantidad_disponible": 6930,
-    "impuesto": 0.21
+    "name": "Lampara Vitrofusion Mediana",
+    "price": 4090.91
   },
   {
     "id": 9,
-    "nombre": "Budas Deco 20 cm",
-    "precio_unitario": 2314.05,
-    "cantidad_disponible": 5600,
-    "impuesto": 0.21
+    "name": "Budas Deco 20 cm",
+    "price": 2314.05
   },
   {
     "id": 10,
-    "nombre": "Buda 20cm FELICIDAD",
-    "precio_unitario": 2314.05,
-    "cantidad_disponible": 5600,
-    "impuesto": 0.21
+    "name": "Buda 20cm FELICIDAD",
+    "price": 2314.05
   },
   {
     "id": 11,
-    "nombre": "Buda 20cm ARMONIA",
-    "precio_unitario": 2314.05,
-    "cantidad_disponible": 5600,
-    "impuesto": 0.21
+    "name": "Buda 20cm ARMONIA",
+    "price": 2314.05
   },
   {
     "id": 12,
-    "nombre": "Budita BB 13 cm. Laqueados",
-    "precio_unitario": 1157.02,
-    "cantidad_disponible": 3000,
-    "impuesto": 0.21
+    "name": "Budita BB 13 cm. Laqueados",
+    "price": 1157.02
   },
   {
     "id": 13,
-    "nombre": "Budita BB ARMONIA",
-    "precio_unitario": 1694,
-    "cantidad_disponible": 3388,
-    "impuesto": 0.21
+    "name": "Budita BB ARMONIA",
+    "price": 1694
   },
   {
     "id": 14,
-    "nombre": "Budita BB FELICIDAD",
-    "precio_unitario": 1157.02,
-    "cantidad_disponible": 2800,
-    "impuesto": 0.21
+    "name": "Budita BB FELICIDAD",
+    "price": 1157.02
   },
   {
     "id": 15,
-    "nombre": "Duendes Articulados",
-    "precio_unitario": 1487.6,
-    "cantidad_disponible": 2000,
-    "impuesto": 0.21
+    "name": "Duendes Articulados",
+    "price": 1487.6
   },
   {
     "id": 16,
-    "nombre": "Bombitas Defumacion",
-    "precio_unitario": 330.58,
-    "cantidad_disponible": 800,
-    "impuesto": 0.21
+    "name": "Bombitas Defumacion",
+    "price": 330.58
   },
   {
     "id": 17,
-    "nombre": "Palo Santo Peruano",
-    "precio_unitario": 330.58,
-    "cantidad_disponible": 800,
-    "impuesto": 0.21
+    "name": "Palo Santo Peruano",
+    "price": 330.58
   },
   {
     "id": 18,
-    "nombre": "Sahumerios en Cono",
-    "precio_unitario": 247.93,
-    "cantidad_disponible": 700,
-    "impuesto": 0.21
+    "name": "Sahumerios en Cono",
+    "price": 247.93
   },
   {
     "id": 19,
-    "nombre": "Sahumos de Hierbas Naturales",
-    "precio_unitario": 619.83,
-    "cantidad_disponible": 1200,
-    "impuesto": 0.21
+    "name": "Sahumos de Hierbas Naturales",
+    "price": 619.83
   },
   {
     "id": 20,
-    "nombre": "Hornillo CORAZON",
-    "precio_unitario": 1322.31,
-    "cantidad_disponible": 4500,
-    "impuesto": 0.21
+    "name": "Hornillo CORAZON",
+    "price": 1322.31
   },
   {
     "id": 21,
-    "nombre": "Sahumerios Triple Empaste Artesanales MULTIAROMA",
-    "precio_unitario": 247.93,
-    "cantidad_disponible": 700,
-    "impuesto": 0.21
+    "name": "Sahumerios Triple Empaste Artesanales MULTIAROMA",
+    "price": 247.93
   },
   {
     "id": 22,
-    "nombre": "Sahumerios Triple Empaste Artesanales CARBON",
-    "precio_unitario": 413.22,
-    "cantidad_disponible": 1000,
-    "impuesto": 0.21
+    "name": "Sahumerios Triple Empaste Artesanales CARBON",
+    "price": 413.22
   },
   {
     "id": 23,
-    "nombre": "Sahumerios/Conos para cascadas",
-    "precio_unitario": 314.05,
-    "cantidad_disponible": 700,
-    "impuesto": 0.21
+    "name": "Sahumerios/Conos para cascadas",
+    "price": 314.05
   },
   {
     "id": 24,
-    "nombre": "Esencias AMBAR",
-    "precio_unitario": 429.75,
-    "cantidad_disponible": 1000,
-    "impuesto": 0.21
+    "name": "Esencias AMBAR",
+    "price": 429.75
   },
   {
     "id": 25,
-    "nombre": "Vela de Noche c/contenedores para hornillo",
-    "precio_unitario": 41.32,
-    "cantidad_disponible": 100,
-    "impuesto": 0.21
+    "name": "Vela de Noche c/contenedores para hornillo",
+    "price": 41.32
   },
   {
     "id": 26,
-    "nombre": "Porta Sahumerios Bambu Ceramica",
-    "precio_unitario": 1074.38,
-    "cantidad_disponible": 2600,
-    "impuesto": 0.21
+    "name": "Porta Sahumerios Bambu Ceramica",
+    "price": 1074.38
   },
   {
     "id": 27,
-    "nombre": "Pirámides sahumadoras + Conos de Regalo",
-    "precio_unitario": 2066.12,
-    "cantidad_disponible": 5000,
-    "impuesto": 0.21
+    "name": "Pirámides sahumadoras + Conos de Regalo",
+    "price": 2066.12
   },
   {
     "id": 28,
-    "nombre": "Porta sahumerios redondos",
-    "precio_unitario": 123.97,
-    "cantidad_disponible": 300,
-    "impuesto": 0.21
+    "name": "Porta sahumerios redondos",
+    "price": 123.97
   },
   {
     "id": 29,
-    "nombre": "Porta Sahumerios BUDA Komorebi",
-    "precio_unitario": 619.83,
-    "cantidad_disponible": 1400,
-    "impuesto": 0.21
+    "name": "Porta Sahumerios BUDA Komorebi",
+    "price": 619.83
   },
   {
     "id": 30,
-    "nombre": "Porta Sahumerios Sky madera",
-    "precio_unitario": 570.25,
-    "cantidad_disponible": 1400,
-    "impuesto": 0.21
+    "name": "Porta Sahumerios Sky madera",
+    "price": 570.25
   },
   {
     "id": 31,
-    "nombre": "Quemador Palo Santo Komorebi",
-    "precio_unitario": 1239.67,
-    "cantidad_disponible": 3000,
-    "impuesto": 0.21
+    "name": "Quemador Palo Santo Komorebi",
+    "price": 1239.67
   },
   {
     "id": 32,
-    "nombre": "Quemador para bombitas Artesanal BUHO",
-    "precio_unitario": 1487.6,
-    "cantidad_disponible": 3000,
-    "impuesto": 0.21
+    "name": "Quemador para bombitas Artesanal BUHO",
+    "price": 1487.6
   },
   {
     "id": 33,
-    "nombre": "Quemador/Sahumador/Cuenco Pintado FLOR",
-    "precio_unitario": 991.74,
-    "cantidad_disponible": 2400,
-    "impuesto": 0.21
+    "name": "Quemador/Sahumador/Cuenco Pintado FLOR",
+    "price": 991.74
   },
   {
     "id": 34,
-    "nombre": "Cascada de Humo LUNA c/Buda Komorebi",
-    "precio_unitario": 2314.05,
-    "cantidad_disponible": 5000,
-    "impuesto": 0.21
+    "name": "Cascada de Humo LUNA c/Buda Komorebi",
+    "price": 2314.05
   },
   {
     "id": 35,
-    "nombre": "Conos para cascadas RELAXING Coco",
-    "precio_unitario": 371.9,
-    "cantidad_disponible": 1000,
-    "impuesto": 0.21
+    "name": "Conos para cascadas RELAXING Coco",
+    "price": 371.9
   },
   {
     "id": 36,
-    "nombre": "Conos para Cascadas 7 PODERES",
-    "precio_unitario": 371.9,
-    "cantidad_disponible": 1000,
-    "impuesto": 0.21
+    "name": "Conos para Cascadas 7 PODERES",
+    "price": 371.9
   },
   {
     "id": 37,
-    "nombre": "Veladores Cuadrados madera con foco",
-    "precio_unitario": 2892.56,
-    "cantidad_disponible": 6000,
-    "impuesto": 0.21
+    "name": "Veladores Cuadrados madera con foco",
+    "price": 2892.56
   },
   {
     "id": 38,
-    "nombre": "Velas x 7 Arcángeles",
-    "precio_unitario": 1239.67,
-    "cantidad_disponible": 2500,
-    "impuesto": 0.21
+    "name": "Velas x 7 Arcángeles",
+    "price": 1239.67
   },
   {
     "id": 39,
-    "nombre": "Porta Sahumerios con relieve mandalas",
-    "precio_unitario": 570.25,
-    "cantidad_disponible": 1300,
-    "impuesto": 0.21
+    "name": "Porta Sahumerios con relieve mandalas",
+    "price": 570.25
   },
   {
     "id": 40,
-    "nombre": "Porta Sahumerios Artesenal verde y amarillo",
-    "precio_unitario": 413.22,
-    "cantidad_disponible": 1000,
-    "impuesto": 0.21
+    "name": "Porta Sahumerios Artesenal verde y amarillo",
+    "price": 413.22
   },
   {
     "id": 41,
-    "nombre": "Sahumerios Triple Empaste Artesanales PREMIUM multifragancia",
-    "precio_unitario": 165.29,
-    "cantidad_disponible": 800,
-    "impuesto": 0.21
+    "name": "Sahumerios Triple Empaste Artesanales PREMIUM multifragancia",
+    "price": 165.29
   },
   {
     "id": 42,
-    "nombre": "Sahumerios premium un AROMA",
-    "precio_unitario": 165.29,
-    "cantidad_disponible": 700,
-    "impuesto": 0.21
+    "name": "Sahumerios premium un AROMA",
+    "price": 165.29
   },
   {
     "id": 43,
-    "nombre": "Sahumerios/Conos para cascadas Iluminarte",
-    "precio_unitario": 330.58,
-    "cantidad_disponible": 800,
-    "impuesto": 0.21
+    "name": "Sahumerios/Conos para cascadas Iluminarte",
+    "price": 330.58
   },
   {
     "id": 44,
-    "nombre": "Hornillo 2 PIEZAS chiquito",
-    "precio_unitario": 1652.89,
-    "cantidad_disponible": 4000,
-    "impuesto": 0.21
+    "name": "Hornillo 2 PIEZAS chiquito",
+    "price": 1652.89
   },
   {
     "id": 45,
-    "nombre": "Hornillo cerámica pintados",
-    "precio_unitario": 1652.89,
-    "cantidad_disponible": 4000,
-    "impuesto": 0.21
+    "name": "Hornillo cerámica pintados",
+    "price": 1652.89
   },
   {
     "id": 46,
-    "nombre": "Cascada de Humo Piedras",
-    "precio_unitario": 2479.34,
-    "cantidad_disponible": 6000,
-    "impuesto": 0.21
+    "name": "Cascada de Humo Piedras",
+    "price": 2479.34
   }
 ]
